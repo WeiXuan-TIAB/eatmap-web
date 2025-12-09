@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
   selector: 'app-home',
   imports: [CommonModule],
   template: `
-    <h1 class="text-xl font-bold mb-2">EatMap 首頁</h1>
+    <h1 class="text-xl font-bold mb-2">食不相瞞 | Honest Bites</h1>
     <p class="text-sm text-gray-600">
       之後這裡會顯示「已吃過 / 想去吃」的店家列表。
     </p>
